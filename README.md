@@ -4,11 +4,24 @@
 
 ## 代表项目
 
-| 项目 | 简介 |
-| :--- | :--- |
-| [codeMate](https://github.com/jackfeicoder/codeMate) | 用 Java 实现的 AI Agent 命令行工具 |
-| [hzf-blog](https://github.com/jackfeicoder/hzf-blog) | 用 React、FastAPI 和 SQLite 搭建的个人博客 |
-| [Kronos](https://github.com/jackfeicoder/Kronos) | 股票预测模型实验，接入国内数据并做中文可视化 |
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="33%" valign="top">
+        <a href="https://github.com/jackfeicoder/codeMate"><strong>codeMate</strong></a>
+        <br>用 Java 实现的 AI Agent 命令行工具
+      </td>
+      <td width="33%" valign="top">
+        <a href="https://github.com/jackfeicoder/hzf-blog"><strong>hzf-blog</strong></a>
+        <br>用 React、FastAPI 和 SQLite 搭建的个人博客
+      </td>
+      <td width="34%" valign="top">
+        <a href="https://github.com/jackfeicoder/Kronos"><strong>Kronos</strong></a>
+        <br>股票预测模型实验，接入国内数据并做中文可视化
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 `Java` · `Python` · `React` · `FastAPI` · `SQLite`
 
