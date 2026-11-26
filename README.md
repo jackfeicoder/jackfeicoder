@@ -8,16 +8,16 @@
   <tbody>
     <tr>
       <td width="33%" valign="top">
-        <a href="https://github.com/jackfeicoder/codeMate"><strong>codeMate</strong></a>
-        <br>用 Java 实现的 AI Agent 命令行工具
+        <a href="https://github.com/jackfeicoder/codeY"><strong>codeY</strong></a>
+        <br>用 Java 从零搭建 AI Agent，学习 Agent 的工作原理
       </td>
       <td width="33%" valign="top">
         <a href="https://github.com/jackfeicoder/hzf-blog"><strong>hzf-blog</strong></a>
         <br>用 React、FastAPI 和 SQLite 搭建的个人博客
       </td>
       <td width="34%" valign="top">
-        <a href="https://github.com/jackfeicoder/Kronos"><strong>Kronos</strong></a>
-        <br>股票预测模型实验，接入国内数据并做中文可视化
+        <a href="https://github.com/jackfeicoder/yolov5-code"><strong>yolov5-code</strong></a>
+        <br>YOLOv5 目标检测实战与学习笔记
       </td>
     </tr>
   </tbody>
